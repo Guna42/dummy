@@ -1,6 +1,7 @@
 import Image from 'next/image';
 import React from 'react';
 import banner from '../assets/banner.png';
+import Link from 'next/link';
 
 function Header() {
   return (
@@ -35,6 +36,18 @@ function Header() {
           alt="banner"
           className="scale-x-[-1]"
         />
+      </div>
+      
+      {/* Landing Page Link at the bottom */}
+      <div className="mt-auto mb-8 text-center">
+        <Link 
+          href="https://peaceful-community-154152.framer.app/"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="text-blue-600 hover:text-blue-800 underline"
+        >
+          Visit our Landing Page
+        </Link>
       </div>
     </div>
   );
