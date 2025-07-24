@@ -1,7 +1,7 @@
 <div align="center">
 
 # Haven  
-*A Silent Shield, A Strong Voice.*
+*A Silent Shield, A Strong Voice.
 
 </div>
 
@@ -21,7 +21,7 @@ https://haven-aws.framer.website/
 ## What it Does 💡
 
 ### Problem Statement 
-Globally, **1 in 3 women** experiences physical or sexual violence in her lifetime, often by an intimate partner. In India, **30% of women** have faced domestic violence at least once (WHO, National Family Health Survey). Abusers often control and monitor digital communications, isolating these women and preventing them from safely reaching out for help.
+Globally, **1 in 3 women** experiences physical or sexual violence in her lifetime, often by an intimate partner. In India, **30% of women** have faced domestic violence at least once (WHO, National Family Health Survey). 
 
 ### Haven’s Solution 💪
 
